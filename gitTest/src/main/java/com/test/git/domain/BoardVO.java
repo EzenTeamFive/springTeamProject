@@ -8,4 +8,6 @@ public class BoardVO {
 	
 	private String name;
 	//수정했으요 modify!
+	
+	//또 수정함요
 }
