@@ -4,6 +4,8 @@ public class BoardVO {
 
 	private String title;
 	
+	private String content;
 	
-	//¼öÁ¤ÇÔ
+	private String name;
+	//ìˆ˜ì •í–ˆìœ¼ìš” modify!
 }
