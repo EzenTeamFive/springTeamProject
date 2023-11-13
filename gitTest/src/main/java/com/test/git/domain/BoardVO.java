@@ -10,4 +10,6 @@ public class BoardVO {
 	//수정했으요 modify!
 	
 	//또 수정함요
+	
+	//동시 수정!
 }
