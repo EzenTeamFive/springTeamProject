@@ -6,4 +6,5 @@ public class BoardVO {
 	
 	private String content;
 	
+	//서연 지영 병합
 }
